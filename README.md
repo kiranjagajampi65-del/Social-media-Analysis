@@ -3,15 +3,17 @@
 ## 📊 Social Media Ads Performance Analysis – Power BI
 ## Project Overview  ##
 
-This project presents an end-to-end analysis of **Meta Ads (Facebook and Instagram)** using **Power BI**. The dashboard provides a unified view of campaign performance and helps evaluate how ad formats, audiences, budgets, and time periods influence engagement, conversions, and return on investment (ROI).
+This project presents an end-to-end analysis of **Meta Ads (Facebook and Instagram)** using **Power BI**. The dashboard provides a view of campaign performance and helps evaluate how ad formats, audiences, budgets, and time periods influence engagement, conversions, and return on investment (ROI).
 
 The objective is to support marketing teams with clear, data-driven insights that improve ad effectiveness and optimize spending.
 
-### Tools & Technologies
+### Tools 
 
-* Power BI
-* DAX
-* Excel / CSV Data
+| Tool      | Purpose                            |
+| --------- | ---------------------------------- |
+| Power BI  | Dashboard creation & interactivity |
+| DAX       | Custom measures & calculations     |
+| Excel/CSV | Data source preparation            |
 
 ### Key Metrics Tracked
 
@@ -20,7 +22,7 @@ The objective is to support marketing teams with clear, data-driven insights tha
 * CTR, Engagement Rate, Conversion Rate
 * ROI and Budget Utilization
 
-### Dashboard Highlights
+### Highlights
 
 * Platform-wise performance comparison (Facebook vs Instagram)
 * Ad format analysis (Video, Stories, Image, Carousel)
@@ -41,7 +43,7 @@ The objective is to support marketing teams with clear, data-driven insights tha
 * The **18–30 age group** showed the strongest response to ads
 * Engagement declined significantly beyond age 35
 
-### Business Recommendations
+###  Recommendations
 
 * Allocate a higher budget to **Video and Stories ads** to maximize ROI
 * Improve landing pages and checkout flows to increase conversion rates
